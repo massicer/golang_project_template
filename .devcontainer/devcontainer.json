@@ -1,0 +1,8 @@
+{
+    "name": "Golang 1.16 devcontainer",
+    "image": "massicer/golang_ci",
+    "extensions": [
+		"tabnine.tabnine-vscode",
+		"aldijav.golangwithdidi"
+	],
+}
